@@ -18,6 +18,7 @@ y funciona como un sistema **CRUD** (Crear, Leer, Actualizar y Eliminar).
 * **Buscar usuario** (`BUSCAR.jsp`): Para encontrar a un usuario en específico.
 * **Actualizar usuario** (`ACTUALIZAR.jsp`): Para modificar los datos de un usuario existente.
 * **Eliminar usuario** (`eliminar.jsp`): Para borrar un registro de usuario.
+* **Selecionar usuario** ('selectNombre.jsp'): Muestra solo los nombres de los usuarios
 * **Salir** (`index.jsp`): Recarga la misma página principal.
 
 ### Estructura del Proyecto
