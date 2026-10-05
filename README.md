@@ -1,3 +1,9 @@
+### Alumnas: 
+Mejia Espinosa Vianey
+Gómez Hernández Guadalupe Jazmín
+
+
+
 ## Sistema de gestión de usuarios
 
 Este sistema está desarrollado en Java (usando Servlets/JSP y JPA para la base de datos) 
